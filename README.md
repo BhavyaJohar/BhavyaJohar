@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning derivatives pricing!
+CS & Finance @ UVA
 
 
 ## 🌐 Socials:
