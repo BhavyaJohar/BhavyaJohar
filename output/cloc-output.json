@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 0.459151983261108,
-  "n_files"            : 612,
-  "n_lines"            : 124844,
-  "files_per_second"   : 1332.89198851608,
-  "lines_per_second"   : 271901.253944937},
+  "elapsed_seconds"    : 0.459642171859741,
+  "n_files"            : 618,
+  "n_lines"            : 125405,
+  "files_per_second"   : 1344.52414907782,
+  "lines_per_second"   : 272831.797597256},
 "CSV" :{
   "nFiles": 6,
   "blank": 0,
@@ -36,21 +36,21 @@
   "blank": 161,
   "comment": 54,
   "code": 1563},
+"Swift" :{
+  "nFiles": 37,
+  "blank": 201,
+  "comment": 161,
+  "code": 1444},
 "XML" :{
-  "nFiles": 32,
+  "nFiles": 33,
   "blank": 5,
   "comment": 48,
-  "code": 1152},
+  "code": 1162},
 "JSX" :{
   "nFiles": 13,
   "blank": 89,
   "comment": 11,
   "code": 977},
-"Swift" :{
-  "nFiles": 31,
-  "blank": 119,
-  "comment": 101,
-  "code": 973},
 "Arduino Sketch" :{
   "nFiles": 5,
   "blank": 42,
@@ -91,11 +91,6 @@
   "blank": 18,
   "comment": 0,
   "code": 62},
-"Lean" :{
-  "nFiles": 1,
-  "blank": 14,
-  "comment": 7,
-  "code": 41},
 "Dockerfile" :{
   "nFiles": 1,
   "blank": 15,
@@ -127,7 +122,7 @@
   "comment": 0,
   "code": 3},
 "SUM": {
-  "blank": 5968,
-  "comment": 4045,
-  "code": 114831,
-  "nFiles": 612} }
+  "blank": 6036,
+  "comment": 4098,
+  "code": 115271,
+  "nFiles": 618} }
