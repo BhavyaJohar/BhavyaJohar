@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 0.48199200630188,
+  "elapsed_seconds"    : 0.483006954193115,
   "n_files"            : 640,
-  "n_lines"            : 128689,
-  "files_per_second"   : 1327.82285106852,
-  "lines_per_second"   : 266994.054501808},
+  "n_lines"            : 128392,
+  "files_per_second"   : 1325.03268212597,
+  "lines_per_second"   : 265818.118942997},
 "CSV" :{
   "nFiles": 6,
   "blank": 0,
@@ -14,7 +14,7 @@
 "TypeScript" :{
   "nFiles": 412,
   "blank": 3476,
-  "comment": 519,
+  "comment": 521,
   "code": 38676},
 "YAML" :{
   "nFiles": 16,
@@ -28,9 +28,9 @@
   "code": 6518},
 "Swift" :{
   "nFiles": 56,
-  "blank": 430,
-  "comment": 338,
-  "code": 3396},
+  "blank": 385,
+  "comment": 374,
+  "code": 3104},
 "Dart" :{
   "nFiles": 15,
   "blank": 179,
@@ -45,7 +45,7 @@
   "nFiles": 33,
   "blank": 5,
   "comment": 48,
-  "code": 1162},
+  "code": 1164},
 "JSX" :{
   "nFiles": 13,
   "blank": 89,
@@ -122,7 +122,7 @@
   "comment": 0,
   "code": 3},
 "SUM": {
-  "blank": 6362,
-  "comment": 4415,
-  "code": 117912,
+  "blank": 6317,
+  "comment": 4453,
+  "code": 117622,
   "nFiles": 640} }
